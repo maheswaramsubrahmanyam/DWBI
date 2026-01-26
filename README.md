@@ -1,5 +1,6 @@
 # DWBI
 <img width="939" height="622" alt="image" src="https://github.com/user-attachments/assets/28326e3a-69f9-46bd-917b-b7aa00b65184" />
+<img width="825" height="465" alt="image" src="https://github.com/user-attachments/assets/96e251aa-4f0d-473e-a0bc-ff6923cb9bec" />
 
 
 # OLAP Technology for Data Mining
@@ -297,3 +298,7 @@ Example:
 https://www.geeksforgeeks.org/dbms/olap-operations-in-dbms/
 
 ---
+<img width="811" height="528" alt="image" src="https://github.com/user-attachments/assets/c0747b40-c10e-48cb-812f-5022cada6dfd" />
+
+# refrence notes 
+https://www.geeksforgeeks.org/big-data/data-warehousing/
