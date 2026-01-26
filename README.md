@@ -293,4 +293,7 @@ Example:
 * Finds seasonal trends
 * Data mining predicts customer buying behavior
 
+# reference Notes form GFG
+https://www.geeksforgeeks.org/dbms/olap-operations-in-dbms/
+
 ---
