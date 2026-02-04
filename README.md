@@ -302,3 +302,11 @@ https://www.geeksforgeeks.org/dbms/olap-operations-in-dbms/
 
 # refrence notes 
 https://www.geeksforgeeks.org/big-data/data-warehousing/
+
+
+
+
+---
+
+# Unit-2
+https://www.geeksforgeeks.org/data-science/data-preprocessing-in-data-mining/
