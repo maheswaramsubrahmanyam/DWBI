@@ -310,3 +310,7 @@ https://www.geeksforgeeks.org/big-data/data-warehousing/
 
 # Unit-2
 https://www.geeksforgeeks.org/data-science/data-preprocessing-in-data-mining/
+
+# Unit 3 
+<img width="792" height="523" alt="image" src="https://github.com/user-attachments/assets/6a4f36cd-f6bf-49ce-a4ef-c7fb44cdc948" />
+
