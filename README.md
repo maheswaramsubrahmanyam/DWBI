@@ -318,3 +318,5 @@ https://www.geeksforgeeks.org/data-science/data-preprocessing-in-data-mining/
 
 <img width="336" height="534" alt="image" src="https://github.com/user-attachments/assets/8a7e028c-0fd1-44aa-8cee-10429402dd2f" />
 
+
+<img width="1058" height="635" alt="image" src="https://github.com/user-attachments/assets/896c94f0-52f2-4e92-b02e-fba1a6fed527" />
